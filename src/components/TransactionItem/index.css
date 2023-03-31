@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.deleteItem {
+  display: flex;
+}
+li {
+  color: black;
+}
